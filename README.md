@@ -8,7 +8,7 @@ The complete JSON schema for the MDODE Disruption Feed can be found [here](https
 
 ## Table of Contents
 
-- [Primary Structure and Properties](#mdode-disruption-feed-schema)
+- [Primary Structure and Properties](#mdode-disruption-feed-schema-1)
 - [Properties Object Details](#properties-object-details)
 - [Geometry Details](#geometry-details)
 - [Properties Details](#properties-details)
