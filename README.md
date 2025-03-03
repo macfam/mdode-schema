@@ -6,6 +6,19 @@ This document provides a detailed breakdown of the MDODE Disruption Feed schema,
 
 The complete JSON schema for the MDODE Disruption Feed can be found [here](https://github.com/macfam/mdode-schema/blob/main/schema.json).
 
+## Table of Contents
+
+- [Primary Structure and Properties](#mdode-disruption-feed-schema)
+- [Properties Object Details](#properties-object-details)
+- [Geometry Details](#geometry-details)
+- [Properties Details](#properties-details)
+- [Severity Details](#severity-details)
+- [Source Agency Details](#source-agency-details)
+- [Verification Details](#verification-details)
+- [Data Quality Details](#data-quality-details)
+
+
+
 ## MDODE Disruption Feed Schema
 
 This table outlines the main structure and properties of the MDODE Disruption Feed schema.
