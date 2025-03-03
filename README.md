@@ -2,6 +2,10 @@
 
 This document provides a detailed breakdown of the MDODE Disruption Feed schema, used for exchanging information about verified major disruptions such as work zones, crashes, and weather events.
 
+## JSON Schema
+
+The complete JSON schema for the MDODE Disruption Feed can be found [here](https://github.com/macfam/mdode-schema/blob/main/schema.json).
+
 ## MDODE Disruption Feed Schema
 
 This table outlines the main structure and properties of the MDODE Disruption Feed schema.
